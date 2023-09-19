@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "c9443a54-8b76-50ee-00c3-93a815335768",
+  "instructors": {
+    "content": [
+      "415f2639-94c3-d0b5-c9fb-3fd8adaaa6cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c212cf75-65f0-6c66-ca8e-ece523dc7837",
+    "website": "18-769-topics-in-lie-theory-tensor-categories-spring-2009"
+  },
+  "course_title": "Topics in Lie Theory: Tensor Categories",
+  "course_description": "This course will give a detailed introduction to the theory of tensor categories and review some of its connections to other subjects (with a focus on representation-theoretic applications). In particular, we will discuss categorifications of such notions from ring theory as: module, morphism of modules, Morita equivalence of rings, commutative ring, the center of a ring, the centralizer of a subring, the double centralizer property, graded ring, etc.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.769",
+  "course_image_thumbnail": {
+    "content": "1280dace-0651-2e0e-b7e2-ad0ed2185be3",
+    "website": "18-769-topics-in-lie-theory-tensor-categories-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "b6e40bcc-956b-48d0-b232-3a9537ea6b03",
+  "site_short_id": "18.769-spring-2009",
+  "title": "Course Metadata"
+}
